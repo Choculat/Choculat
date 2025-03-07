@@ -1,3 +1,3 @@
 # About me
 
-hiii
+technically a full stack dev
